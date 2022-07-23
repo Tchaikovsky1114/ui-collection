@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+summary{
+  list-style: none
+}
+
+body {
+  background-color: #fca;
+  color: #000;
+}
+
+
+@layer base {
+  body {
+  }
+  button[aria-current='page']{
+    @apply bg-yellow-300
+  }
+}
