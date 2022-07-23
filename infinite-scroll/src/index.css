@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+summary{
+  list-style: none
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  color: #000;
+}
+
+
+@layer base {
+  body {
+  }
+  button[aria-current='page']{
+    @apply bg-yellow-300
+  }
+}
