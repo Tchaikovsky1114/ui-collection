@@ -6,4 +6,5 @@
 - 상단 메뉴를 클릭하여, 해당 숫자가 적힌 스크롤위치로 이동할 수 있습니다.
 
 
-![](https://velog.velcdn.com/images/tchaikovsky/post/1f447ed1-0033-4b86-93f2-ee1c15e19c6a/image.gif)
+
+![](https://velog.velcdn.com/images/tchaikovsky/post/c04927f7-c57d-4d5e-bb64-9e1c2dacdacc/image.gif)
