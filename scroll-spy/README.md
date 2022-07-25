@@ -4,3 +4,6 @@
 ### 기능 요구사항
 - 스크롤을 내리면서 나오는 숫자가 상단 메뉴에 활성화된 숫자와 일치하도록 합니다.
 - 상단 메뉴를 클릭하여, 해당 숫자가 적힌 스크롤위치로 이동할 수 있습니다.
+
+
+![](https://velog.velcdn.com/images/tchaikovsky/post/1f447ed1-0033-4b86-93f2-ee1c15e19c6a/image.gif)
